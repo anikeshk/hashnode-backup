@@ -1,4 +1,14 @@
-# Breaking Changes 🤝 Breaking Projects
+---
+title: "Breaking Changes 🤝 Breaking Projects"
+seoTitle: "Breaking Changes Breaking Projects"
+seoDescription: "How "breaking changes" in dependencies or third-party modules can break your projects and what you can do to prevent this!"
+datePublished: Sun Apr 17 2022 15:40:18 GMT+0000 (Coordinated Universal Time)
+cuid: cl23gfrid0brvwnnvgeu52caq
+slug: breaking-changes-breaking-projects
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/XFUqd0u5U7w/upload/v1650111035251/3GZDkCvhK.jpeg
+tags: code-review, programming-blogs, nodejs, npm, debuggingfeb
+
+---
 
 Any codebase, from a small pet project to a large enterprise grade application, has some reliance on **third party dependencies or modules**. This could be to easily allow read/write operations on a database (like [elasticsearch](https://www.npmjs.com/package/@elastic/elasticsearch)), making operations on data structures easier (like [lodash](https://www.npmjs.com/package/lodash)), or to enable extensive testing capability (like [mocha](https://www.npmjs.com/package/mocha)). This lifts a lot of the heavy work one would need to do if they would have to natively build these functionalities themselves. But the one drawback of this is you are are reliant on the **maintainer** of the dependency to preserve the library and ensure compatibility as the core underlying language grows. I hope the lessons I learnt while working on a Node.js + dependency uplift at my company will be useful in your projects.
 
