@@ -1,4 +1,14 @@
-# How To Setup Automatic Email Alerts for AWS EC2 Running Instances and Save $$$
+---
+title: "How To Setup Automatic Email Alerts for AWS EC2 Running Instances and Save $$$"
+seoTitle: "Automatic Email Alerts For AWS EC2 Running Instances"
+seoDescription: "Automatic Email Alerts For AWS EC2 Running Instances Using Lambda + SNS + EventBridge - and free of cost."
+datePublished: Mon Jan 31 2022 20:40:34 GMT+0000 (Coordinated Universal Time)
+cuid: ckz35p5vf01k82js16dlzgef5
+slug: automatic-email-alerts-for-aws-ec2-running-instances
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1641653872063/bWTbN2osw.png
+tags: ec2, sysadmin, aws, devops
+
+---
 
 I think all of us\* have made the mistake of keeping an EC2 instance on AWS running the entire night and ending up with a massive bill. A simple way of preventing this is to setup up **email notifications that alert you (or your team) of the running EC2 instances in your AWS region** and remind you to shut down instances which are not supposed to be running. 
 
