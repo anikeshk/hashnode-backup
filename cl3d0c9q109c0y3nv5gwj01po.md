@@ -1,4 +1,13 @@
-# Load Test Your API in 5 Easy Steps
+---
+title: "Load Test Your API in 5 Easy Steps"
+seoTitle: "Load Test Your API in 5 Easy Steps Using k6"
+datePublished: Thu May 19 2022 12:47:05 GMT+0000 (Coordinated Universal Time)
+cuid: cl3d0c9q109c0y3nv5gwj01po
+slug: load-test-your-api-in-5-easy-steps
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1652957461493/iVVrIiDuQ.png
+tags: web-performance, performance, thw-web-apps, thw-cloud-computing
+
+---
 
 Ever wonder how a billion dollar food delivery company's [app crashes when it reaches 6000 orders per minute](https://www.engadget.com/grubhub-offer-of-free-lunch-nyc-crashes-website-233056950.html), but other companies [are able to handle over 9000 per minute orders with ease](https://www.indiatoday.in/technology/news/story/india-celebrates-new-year-eve-at-the-rate-of-9000-swiggy-orders-and-8000-zomato-orders-per-minute-1894781-2022-01-01)? Or how a sports live streaming company prepares [their infrastructure to handle 25 MILLION concurrent hitting their website like a tsunami at the start of a game](https://www.youtube.com/watch?v=QjvyiyH4rr0)?
 
